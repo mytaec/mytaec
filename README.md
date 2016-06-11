@@ -10,4 +10,14 @@
 
 ```
 alert("Hello world")
+
+function sayHello() {
+	alert("Hello")
+}
 ```
+
+function sayHello() {
+	alert("Hello")
+}
+
+
